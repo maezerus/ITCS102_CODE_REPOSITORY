@@ -1,5 +1,4 @@
-code = "\t\t\t\t\t\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t*\n\t\t\t\t\t\t\t*\t\tHi, My Name is\n\t\t\t\t\t\t\t\t\tMaezzy M. Loveria\n"
-
+M = "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t\t\t\t\t*n\t\t\t\t\t\t\t\t\t\t\t*\t\t\tHI  MY NAME IS\t\t\t\t\t*\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\tMAEZZY LOVERIA\t\t\t\t*\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*n\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t*"
 
 
 
