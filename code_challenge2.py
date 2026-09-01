@@ -1,15 +1,17 @@
-money = 7892
-a = 1000
-b = 500
-c = 200
-d = 100
-e = 50
-f = 20
-g = 10
-h = 0
+money = 8935
 
-print("Money to deposit", money)
-
+print("=========== PH PESO DENOMINATION BREAK DOWN =============")
+print("CURRENT MONEY IS =====>", money)
+print("1000 - ", )
+print("500 - ",)
+print("200 - ",)
+print("100 - ",)
+print("50 - ",)
+print("20 - ",)
+print("10 - ",)
+print("5 - ",)
+print("1 - ",)
+print("=========================================================")
 
 
 
