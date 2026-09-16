@@ -8,4 +8,4 @@ print(a < b or c > a and c == b)
 
 print( not (a < b or c > a and c == b))
 
-#print(c >= a and b < a) 
+print(c >= a and b < a) 
