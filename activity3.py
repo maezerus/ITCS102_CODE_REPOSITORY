@@ -13,3 +13,5 @@ password = "siano123ay456"
 isHuman = True
 
 print("i am ", mySurname)
+print("my password is ", passowrd)
+bool(int(input(
